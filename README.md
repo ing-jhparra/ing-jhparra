@@ -1,4 +1,3 @@
-<div class="meta_for_parser tablespecs" style="visibility:hidden">{"dataname":"environment","colvar":"varname","colval":"value"}</div>
 <h1 align="center"><b>Hola, soy Jesús </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
@@ -7,7 +6,7 @@
 <h1 align="center">
     <img src="img\ReadmeGithub.png" />
 </h1>
-<h2 align="center"><b>SysAdmin Linux - Windows | SysDBA | Data Science | Machine Learning | Data Engineer</b></h2>
+<h3 align="center"><b>SysAdmin Linux - Windows | SysDBA | Data Science | Machine Learning | Data Engineer</b></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/country-Venezuela-6CACE4?&style=for-the-badge&labelColor=0a0a0a" alt="Country Badge">
