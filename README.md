@@ -1,11 +1,18 @@
-<h1 align="center"><b>Hola, Soy Jesús H. Parra</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Jesús </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
 
 <p align="center">
 <h1 align="center">
     <img src="img\ReadmeGithub.png" />
 </h1>
+<h2 align="center"><b>SysAdmin Linux - Windows | SysDBA | Data Science | Machine Learning | Data Engineer</b></h2>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
+<p align="center">
+  <img src="https://img.shields.io/badge/country-Venezuela-6CACE4?&style=for-the-badge&labelColor=0a0a0a" alt="Country Badge">
+</p>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 </br>
 
