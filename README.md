@@ -22,6 +22,7 @@
 - Eterno apasionado a la tecnología y siempre buscando que aprender.
 - Entre mis hobbies se encuentra escribir codigo, conocer y socializar con personas.
 - Y entre mis habilidades blandas, trabajar en equipo, resilencia, resolución de problema, adaptabilidad.
+- Una meta a futuro como Desarrollador Web3 en formación es dominar Solidity para desarrollar y auditar protocolos DeFi robustos, contribuyendo a democratizar las finanzas y fortalecer el ecosistema.
 - Actualmente disponible para una nueva oportunidad laboral, aquí [mi resumen](cv/CV_JesusParra.pdf)
 </br>
 
