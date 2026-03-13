@@ -20,7 +20,7 @@
 - He participado en proyectos de TI en el sector de **Hidrocarburos**, **Finanzas** y **Salud**.
 - Mas de 15 años trabajando como SysAdmin y SysDBA.
 - Eterno apasionado a la tecnología y siempre buscando que aprender.
-- Entre mis hobbies se encuentra escribir codigo, conocer y socializar con personas.
+- Entre mis hobbies se encuentra escribir codigo, probar prompts con las IA existentes, conocer y socializar con personas.
 - Y entre mis habilidades blandas, trabajar en equipo, resilencia, resolución de problema, adaptabilidad.
 - Mi meta a corto palzo es dominar LangChain y LangGraph para liderar el desarrollo de agentes de IA autónomos y robustos
 - Actualmente disponible para una nueva oportunidad laboral, aquí [mi resumen](cv/CV_JesusParra.pdf)
